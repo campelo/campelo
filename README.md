@@ -16,6 +16,11 @@
 ## Last Dev.to posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Full format disk with EFI protected partition](https://dev.to/campelo/full-format-disk-with-efi-protected-partition-4n76)
+- [Creating a shared calendar &lpar;calendar group&rpar;](https://dev.to/campelo/creating-a-shared-calendar-calendar-group-15kd)
+- [Essential linux commands for CTF, ethical hacking](https://dev.to/campelo/essential-linux-commands-for-ctf-ethical-hacking-3969)
+- [IIS error &lpar;500.19&rpar;](https://dev.to/campelo/iis-error-50019-10o9)
+- [Do you know that if you&#39;re using VARCHAR&lpar;10&rpar; on SQLite you can store 1-million characters anyway?](https://dev.to/campelo/do-you-know-that-if-youre-using-varchar10-on-sqlite-you-can-store-1-million-characters-anyway-i9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
