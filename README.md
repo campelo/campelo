@@ -16,11 +16,11 @@
 ## Last Dev.to posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating AD users&#39; extension properties](https://dev.to/campelo/creating-ad-users-extension-properties-326f)
 - [Azure Functions - Creating a new function](https://dev.to/campelo/azure-functions-reading-users-from-microsoft-graph-1pjc)
 - [Azure - Registering a client credentials app](https://dev.to/campelo/azure-registering-a-client-credentials-app-450a)
 - [Azure - Creating a new tenant](https://dev.to/campelo/creating-a-new-tenant-on-azure-41pn)
 - [Full format disk with EFI protected partition](https://dev.to/campelo/full-format-disk-with-efi-protected-partition-4n76)
-- [Creating a shared calendar &lpar;calendar group&rpar;](https://dev.to/campelo/creating-a-shared-calendar-calendar-group-15kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
